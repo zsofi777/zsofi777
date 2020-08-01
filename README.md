@@ -1,6 +1,6 @@
 [![zsofi777](https://zsofi777.github.io/images/gif.gif)](https://zsofi777.github.io/)
 
-Hi. I’m Zsofi. I’m a UX/UI designer :pencil2: & Front-end developer :computer: 
+Hi, I’m Zsofi. I’m a UX/UI designer :pencil2: & Front-end developer :computer: 
 
 You can find me on [linkedin](https://www.linkedin.com/in/kovagozsofia/) :briefcase:
 
